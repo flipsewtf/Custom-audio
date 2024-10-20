@@ -1,3 +1,10 @@
+/*
+Custom audio for npf and legacy Tumblr posts
+-  https://lushwave.tumblr.com
+-  https://github.com/flipsewtf/
+-  Version 1.0.0
+*/
+
 document.addEventListener("DOMContentLoaded", function () {
     const playSVG = `
     <svg class='play-audio' xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 512 512'>
